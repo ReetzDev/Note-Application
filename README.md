@@ -57,7 +57,7 @@ A comprehensive web-based note application built with Java, Spring Boot, and MyS
    cd note-application
    
 2. 🐬 Set up the database:
-   ![erd](https://github.com/ReetzDev/Note-Application/assets/136252271/588dc430-b1c7-46a8-bc8a-0f1f1108d4a2)
+   ![erd]([https://github.com/ReetzDev/Note-Application/assets/136252271/588dc430-b1c7-46a8-bc8a-0f1f1108d4a2](https://github.com/ReetzDev/Note-Application/blob/main/uploads/avatar/pic.jpg))
    Create a MySQL database named note_app and run the program.
    Or import the database backup file (database_backup.sql) into your MySQL database
    
